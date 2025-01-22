@@ -3,10 +3,6 @@
 Aquest directori conté els fitxers necessaris per a la pràctica de LP, a més de l'executable antlr-4.13.2-complete.jar,
 el qual es pot usar per compilar la grmàtica del projecte.
 
-## Autor
-
-Genís Carretero Ferrete
-
 ## Instruccions
 
 1. Preparar programa fent "make"
@@ -50,3 +46,8 @@ Aquest projecte és fàcilment ampliable ja que la gramàtica és simple, només
 al fitxer EvalVisitor.py, jo continuaria implementant les funcions lambda, ja que em semblen bastant importants, i també
 afegint la possibilitat de passar funcions com a paràmetre només escrivint l'operador +, *, and, or, etc. Que és una cosa 
 que no he implementat i ho podria haver fet.
+
+## Autor
+
+Genís Carretero Ferrete
+
